@@ -1,24 +1,7 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Stock Tracker App
+* API of iexcloud.io
+* Give Information abot the stock
+## To Install and Use App
+* Use Rails 6.1.0
+* Ruby 2.7.0
+* Gems used Devise, bootstrap-devise-view
